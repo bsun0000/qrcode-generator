@@ -28,7 +28,7 @@ A minimalist Chrome extension for generating QR codes from webpage URLs and link
 ## Credits
 
 This extension uses the "QRCode for Javascript" library by davidshimjs  
-Project page: http://jeromeetienne.github.com/jquery-qrcode/  
+Project page: [http://jeromeetienne.github.com/jquery-qrcode/](https://github.com/jeromeetienne/jquery-qrcode)  
 
 ## License
 
